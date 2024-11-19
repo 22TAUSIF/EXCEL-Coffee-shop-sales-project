@@ -1,7 +1,6 @@
 # Coffee-shop-sales
 
-![image alt]
-
+![image alt](https://github.com/22TAUSIF/EXCEL-Coffee-shop-sales-project/blob/e94716cbbdfa8ff8566ab19d550b164954d542a4/completed%20coffee%20shop%20sales%20wscube%20Screenshot%202024-11-19%20181327.png)
 
 These are the answers to the questions derived from the data, asked by the manager:
 
