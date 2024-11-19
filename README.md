@@ -1,5 +1,8 @@
 # Coffee-shop-sales
 
+![image alt]
+
+
 These are the answers to the questions derived from the data, asked by the manager:
 
 ### 1. **How do sales vary by day of the week and hour of the day?**
